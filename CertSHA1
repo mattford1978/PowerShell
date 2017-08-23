@@ -1,0 +1,8 @@
+
+
+$CertSerialNumber > d:\xxx.txt
+
+$CertSHA1Hash > d:\xxx.txt
+
+$CertSubject > d:\xxx.txt 
+
